@@ -68,4 +68,4 @@ pip install -r requirements.txt
 
 ## 🙋‍♂️ Author
 **Emre Çağrı Dalcı**  
-```
+
