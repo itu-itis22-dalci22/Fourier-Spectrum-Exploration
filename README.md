@@ -7,15 +7,14 @@ This project demonstrates how to visualize signals, transform them into the freq
 
 ## 📁 Project Structure
 
-```
-📦 Fourier-Analysis-With-Python
-├── signal_visualization.ipynb      # Generate & visualize time-domain signals
-├── fourier_analysis.ipynb          # Analyze signals in frequency domain
-├── filter_design_response.ipynb    # Design & apply filters to noisy signals
-├── requirements.txt                # Python dependencies
-├── .gitignore                      # Ignore unnecessary files
-└── README.md                       # Project documentation
-```
+| File/Folder                | Description                                  |
+|----------------------------|---------------------------------------------|
+| `signal_visualization.ipynb` | Generate & visualize time-domain signals    |
+| `fourier_analysis.ipynb`     | Analyze signals in frequency domain         |
+| `filter_design_response.ipynb`| Design & apply filters to noisy signals     |
+| `requirements.txt`           | Python dependencies                         |
+| `.gitignore`                | Files to ignore in version control         |
+| `README.md`                | Project documentation                      |
 
 ## ⚙️ Setup Instructions
 
@@ -71,3 +70,5 @@ pip install -r requirements.txt
 ## 🙋‍♂️ Author
 **Emre Çağrı Dalcı**  
 ```
+
+The table format is much more readable and professional-looking while maintaining all the necessary information.
