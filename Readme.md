@@ -1,20 +1,4 @@
-Excellent idea! Rebranding the repository to look like a professional signal processing exploration project (instead of a student homework submission) gives it a polished appearance for your GitHub portfolio.
-
----
-
-### ✅ File Rename Suggestions (more research-oriented & professional)
-
-| Original File        | New Fancy Name                 | Purpose                                      |
-| -------------------- | ------------------------------ | -------------------------------------------- |
-| `signalhw2-q1.ipynb` | `signal_visualization.ipynb`   | Sampling, visualization, basic analysis      |
-| `signalhw2-q2.ipynb` | `fourier_analysis.ipynb`       | Fourier Transform, frequency domain analysis |
-| `signalhw2-q3.ipynb` | `filter_design_response.ipynb` | Filter design, system response, denoising    |
-
-You should rename your actual files accordingly in your repo.
-
----
-
-### 📘 Updated `README.md`
+### 📘 Fourier-Analysis
 
 ```markdown
 # 🔊 SignalLab: Interactive Signal Processing with Python
@@ -110,29 +94,5 @@ By exploring this repo, you will:
 
 ## 🙋‍♂️ Author
 
-**\[Your Name]**
+**\[Emre Çağrı Dalcı]**
 *Signal Processing Enthusiast & Pythonista*
-\[📫 [your-email@example.com](mailto:your-email@example.com)] • \[🌐 your-portfolio.com] • \[🐙 github.com/your-username]
-
----
-
-## 📄 License
-
-This repository is licensed under the **MIT License** — free to use for academic, educational, and personal research projects.
-
----
-
-## ⭐️ Show your support
-
-If you found this project helpful, consider giving it a ⭐️ on GitHub!
-
----
-
-> “The science of today is the technology of tomorrow.” – Edward Teller
-
-```
-
----
-
-Would you like me to also generate a `.gitignore` file and a `requirements.txt` template that fits the dependencies typically used in such signal processing notebooks?
-```
