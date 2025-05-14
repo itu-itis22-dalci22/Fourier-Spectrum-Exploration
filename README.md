@@ -1,4 +1,3 @@
-```markdown
 # 📊 Fourier Analysis With Python
 
 Welcome to **Fourier Analysis With Python** – an interactive, Jupyter Notebook-based exploration of digital signal processing and Fourier transform techniques using Python.
@@ -70,5 +69,3 @@ pip install -r requirements.txt
 ## 🙋‍♂️ Author
 **Emre Çağrı Dalcı**  
 ```
-
-The table format is much more readable and professional-looking while maintaining all the necessary information.
