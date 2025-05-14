@@ -67,6 +67,7 @@ pip install -r requirements.txt
 ✔ Develop scientific computing skills  
 
 ## 🙋‍♂️ Author
-**\Emre Çağrı Dalcı**
+**Emre Çağrı Dalcı**
+
 ***Signal Processing Enthusiast & Python Developer***
 
