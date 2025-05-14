@@ -1,6 +1,5 @@
 ### 📘 Fourier-Analysis
 
-```markdown
 # 🔊 SignalLab: Interactive Signal Processing with Python
 
 Welcome to **SignalLab**, a research-inspired collection of signal processing experiments and analysis built using Python and Jupyter Notebooks. This mini-project explores various signal processing concepts including visualization, Fourier analysis, and digital filtering.
@@ -11,7 +10,6 @@ Welcome to **SignalLab**, a research-inspired collection of signal processing ex
 
 ## 🧱 Project Structure
 
-```
 
 📦 SignalLab
 ├── signal\_visualization.ipynb     # Explore time-domain signals and sampling
