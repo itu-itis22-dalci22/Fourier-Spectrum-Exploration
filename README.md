@@ -17,7 +17,6 @@ This project demonstrates how to visualize signals, transform them into the freq
 ├── .gitignore                     # Ignore unnecessary files in version control
 └── README.md                      # This beautiful file you're reading
 
-````
 
 ---
 
@@ -28,7 +27,8 @@ This project demonstrates how to visualize signals, transform them into the freq
 ```bash
 git clone https://github.com/your-username/Fourier-Analysis-With-Python.git
 cd Fourier-Analysis-With-Python
-````
+
+```
 
 ### 2. Create a Virtual Environment
 
