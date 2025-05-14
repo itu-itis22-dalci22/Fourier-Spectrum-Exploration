@@ -1,4 +1,3 @@
-```markdown
 # 📊 Fourier Analysis With Python
 
 Welcome to **Fourier Analysis With Python** – an interactive, Jupyter Notebook-based exploration of digital signal processing and Fourier transform techniques using Python.
@@ -9,7 +8,6 @@ This project demonstrates how to visualize signals, transform them into the freq
 
 ## 📁 Project Structure
 
-```
 
 📦 Fourier-Analysis-With-Python
 ├── signal\_visualization.ipynb     # Generate & visualize time-domain signals
